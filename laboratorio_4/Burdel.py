@@ -16,7 +16,7 @@ class Burdel():
     def crear_cliente():
         nombre,rut,telefono,correo=Burdel.crear_persona()
         hora_visitas=int(input("Ingrese las horas que va a estar con la cariñosa: "))
-        cariñosa_actual=""
+        cariñosa_actual="   "
 
 
     def crear_cliente_vip():
